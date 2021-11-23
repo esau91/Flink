@@ -213,15 +213,15 @@ def partial_json_processing(file_path, file_name, batch_size, field_names, error
 
 def main():
     ############################################ Variables ############################################
-    file_path = './docs/202106_flink_data_engieering_sample_data.json'
-    error_file_path = './scripts/error_'
+    file_path = './Python/202106_flink_data_engieering_sample_data.json'
+    error_file_path = './Python/error_'
     db_connection_params = {
-        'my_host': 'localhost', 
-        'my_port': 55545, 
+        'my_host': 'mysql_db', 
+        'my_port': 3306, 
         'my_db': 'flink_2021', 
         'my_charset': 'utf8mb4',
         'my_user': 'root', 
-        'my_password': 'root'
+        'my_password': 'password'
     }
     batch_size = 2500
     #####################################################################################################
@@ -229,7 +229,7 @@ def main():
     file_name = file_path.split('/')[-1]
     start_time = time.time()
 
-    logging.basicConfig(filename='./scripts/my_loggging_info.log', encoding='utf-8', format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %I:%M:%S %p', level=logging.INFO, force=True)
+    logging.basicConfig(filename='./Python/my_loggging_info.log', encoding='utf-8', format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %I:%M:%S %p', level=logging.INFO)
     logging.info('Data Processing Script Starts')
 
     partial_json_processing(file_path, file_name, batch_size, field_names, error_file_path, db_connection_params)
