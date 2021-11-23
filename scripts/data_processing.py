@@ -213,8 +213,8 @@ def partial_json_processing(file_path, file_name, batch_size, field_names, error
 
 def main():
     ############################################ Variables ############################################
-    file_path = '/Users/esau/Downloads/Flink/202106_flink_data_engieering_sample_data.json'
-    error_file_path = '/Users/esau/Git/Flink/scripts/error_'
+    file_path = './docs/202106_flink_data_engieering_sample_data.json'
+    error_file_path = './scripts/error_'
     db_connection_params = {
         'my_host': 'localhost', 
         'my_port': 55545, 

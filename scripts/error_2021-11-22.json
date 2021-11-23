@@ -1,4 +1,4 @@
 {'event_type': '', 'event_time': '2019-01-04 05:07:26', 'user_email': 'TAFgZ@gmail.com', 'phone_number': '0603728764', 'processing_date': '2019-01-04', 'file_name': '202106_flink_data_engieering_sample_data.json'}
 {'event_type': 6, 'event_time': '2018-01-0422:25:53', 'user_email': 'RNRKlh@gmail.com', 'phone_number': '5164649899', 'processing_date': '2018-01-04', 'file_name': '202106_flink_data_engieering_sample_data.json'}
-{'event_type': 3, 'event_time': '2018-01-08 16:27:50', 'user_email': 8898, 'phone_number': '1432631330', 'processing_date': '2018-01-08', 'file_name': '202106_flink_data_engieering_sample_data.json'}
-{'event_type': 7, 'event_time': '2019-01-14 18:49:24', 'user_email': 'PAjIeMQlnf@gmail.com', 'phone_number': '4734922788', 'processing_date': 989, 'file_name': '202106_flink_data_engieering_sample_data.json'}
+{'event_type': 3, 'event_time': '2018-01-08 16:27:50', 'user_email': 1234, 'phone_number': '1432631330', 'processing_date': '2018-01-08', 'file_name': '202106_flink_data_engieering_sample_data.json'}
+{'event_type': 7, 'event_time': '2019-01-14 18:49:24', 'user_email': 'PAjIeMQlnf@gmail.com', 'phone_number': '4734922788', 'processing_date': '201-01-14', 'file_name': '202106_flink_data_engieering_sample_data.json'}
