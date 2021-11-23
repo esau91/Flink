@@ -1,6 +1,106 @@
-2021/11/20 02:04:42 PM Data Processing Script Starts
-2021/11/20 02:05:13 PM Data Processing Script Starts
-2021/11/20 02:05:13 PM Data Processing Time: 0.06
-2021/11/20 02:05:14 PM Data Writing Time: 0.51
-2021/11/20 02:05:14 PM Total Execution Time: 0.57
-2021/11/20 02:05:14 PM Data Processing Script Ends
+2021/11/22 09:15:47 PM Data Processing Script Starts
+2021/11/22 09:15:47 PM Line: 2500
+2021/11/22 09:15:47 PM Processed records: 2500
+2021/11/22 09:15:47 PM Time: 0.05
+2021/11/22 09:15:47 PM Written records: 2500
+2021/11/22 09:15:47 PM Time: 0.13
+2021/11/22 09:15:47 PM Line: 5000
+2021/11/22 09:15:47 PM Processed records: 2500
+2021/11/22 09:15:47 PM Time: 0.04
+2021/11/22 09:15:48 PM Written records: 2500
+2021/11/22 09:15:48 PM Time: 0.17
+2021/11/22 09:15:48 PM Line: 7500
+2021/11/22 09:15:48 PM Processed records: 2500
+2021/11/22 09:15:48 PM Time: 0.04
+2021/11/22 09:15:48 PM Written records: 2500
+2021/11/22 09:15:48 PM Time: 0.10
+2021/11/22 09:15:48 PM Line: 10000
+2021/11/22 09:15:48 PM Processed records: 2500
+2021/11/22 09:15:48 PM Time: 0.04
+2021/11/22 09:15:48 PM Written records: 2500
+2021/11/22 09:15:48 PM Time: 0.08
+2021/11/22 09:15:48 PM Total Execution Time: 0.66
+2021/11/22 09:15:48 PM Total Processed Rows: 10000
+2021/11/22 09:15:48 PM Total Written Records: 10000
+2021/11/22 09:15:48 PM Total Errors Found: 0
+2021/11/22 09:15:48 PM Data Processing Script Ends
+2021/11/22 09:18:08 PM Data Processing Script Starts
+2021/11/22 09:18:08 PM Line: 2500
+2021/11/22 09:18:08 PM Data Types Errors: 4
+2021/11/22 09:18:08 PM Processed records: 2496
+2021/11/22 09:18:08 PM Time: 0.05
+2021/11/22 09:18:08 PM Written records: 2496
+2021/11/22 09:18:08 PM Time: 0.15
+2021/11/22 09:18:09 PM Line: 5000
+2021/11/22 09:18:09 PM Processed records: 2500
+2021/11/22 09:18:09 PM Time: 0.04
+2021/11/22 09:18:09 PM Written records: 2500
+2021/11/22 09:18:09 PM Time: 0.14
+2021/11/22 09:18:09 PM Line: 7500
+2021/11/22 09:18:09 PM Processed records: 2500
+2021/11/22 09:18:09 PM Time: 0.04
+2021/11/22 09:18:09 PM Written records: 2500
+2021/11/22 09:18:09 PM Time: 0.08
+2021/11/22 09:18:09 PM Line: 10000
+2021/11/22 09:18:09 PM Processed records: 2500
+2021/11/22 09:18:09 PM Time: 0.04
+2021/11/22 09:18:09 PM Written records: 2500
+2021/11/22 09:18:09 PM Time: 0.08
+2021/11/22 09:18:09 PM Total Execution Time: 0.61
+2021/11/22 09:18:09 PM Total Processed Rows: 9996
+2021/11/22 09:18:09 PM Total Written Records: 9996
+2021/11/22 09:18:09 PM Total Errors Found: 4
+2021/11/22 09:18:09 PM Data Processing Script Ends
+2021/11/22 09:21:11 PM Data Processing Script Starts
+2021/11/22 09:21:11 PM Line: 2500
+2021/11/22 09:21:11 PM Processed records: 2500
+2021/11/22 09:21:11 PM Time: 0.04
+2021/11/22 09:21:11 PM Written records: 2500
+2021/11/22 09:21:11 PM Time: 0.11
+2021/11/22 09:21:11 PM Line: 5000
+2021/11/22 09:21:11 PM Processed records: 2500
+2021/11/22 09:21:11 PM Time: 0.04
+2021/11/22 09:21:12 PM Written records: 2500
+2021/11/22 09:21:12 PM Time: 0.13
+2021/11/22 09:21:12 PM Line: 7500
+2021/11/22 09:21:12 PM Processed records: 2500
+2021/11/22 09:21:12 PM Time: 0.04
+2021/11/22 09:21:12 PM Written records: 2500
+2021/11/22 09:21:12 PM Time: 0.09
+2021/11/22 09:21:12 PM Line: 10000
+2021/11/22 09:21:12 PM Processed records: 2500
+2021/11/22 09:21:12 PM Time: 0.04
+2021/11/22 09:21:12 PM Written records: 2500
+2021/11/22 09:21:12 PM Time: 0.07
+2021/11/22 09:21:12 PM Total Execution Time: 0.56
+2021/11/22 09:21:12 PM Total Processed Rows: 10000
+2021/11/22 09:21:12 PM Total Written Records: 10000
+2021/11/22 09:21:12 PM Total Errors Found: 0
+2021/11/22 09:21:12 PM Data Processing Script Ends
+2021/11/22 09:22:39 PM Data Processing Script Starts
+2021/11/22 09:22:39 PM Line: 2500
+2021/11/22 09:22:39 PM Data Types Errors: 4
+2021/11/22 09:22:39 PM Processed records: 2496
+2021/11/22 09:22:39 PM Time: 0.04
+2021/11/22 09:22:39 PM Written records: 2496
+2021/11/22 09:22:39 PM Time: 0.12
+2021/11/22 09:22:39 PM Line: 5000
+2021/11/22 09:22:39 PM Processed records: 2500
+2021/11/22 09:22:39 PM Time: 0.04
+2021/11/22 09:22:39 PM Written records: 2500
+2021/11/22 09:22:39 PM Time: 0.14
+2021/11/22 09:22:39 PM Line: 7500
+2021/11/22 09:22:39 PM Processed records: 2500
+2021/11/22 09:22:39 PM Time: 0.04
+2021/11/22 09:22:39 PM Written records: 2500
+2021/11/22 09:22:39 PM Time: 0.07
+2021/11/22 09:22:39 PM Line: 10000
+2021/11/22 09:22:39 PM Processed records: 2500
+2021/11/22 09:22:39 PM Time: 0.04
+2021/11/22 09:22:39 PM Written records: 2500
+2021/11/22 09:22:39 PM Time: 0.08
+2021/11/22 09:22:39 PM Total Execution Time: 0.59
+2021/11/22 09:22:39 PM Total Processed Rows: 9996
+2021/11/22 09:22:39 PM Total Written Records: 9996
+2021/11/22 09:22:39 PM Total Errors Found: 4
+2021/11/22 09:22:39 PM Data Processing Script Ends
