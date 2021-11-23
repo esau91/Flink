@@ -229,7 +229,7 @@ def main():
     file_name = file_path.split('/')[-1]
     start_time = time.time()
 
-    logging.basicConfig(filename='my_loggging_info.log', encoding='utf-8', format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %I:%M:%S %p', level=logging.INFO)
+    logging.basicConfig(filename='./scripts/my_loggging_info.log', encoding='utf-8', format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %I:%M:%S %p', level=logging.INFO)
     logging.info('Data Processing Script Starts')
 
     partial_json_processing(file_path, file_name, batch_size, field_names, error_file_path, db_connection_params)
