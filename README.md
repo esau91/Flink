@@ -17,7 +17,6 @@ How to use it:
 	3. Move to /Flink/Container/ folder.
 	4. Execute the following commands that will create two containers.
 		docker-compose up -d
-		docker-compose exec python_app bash
 	5. Get a bash shell for both containers	
 		a) docker-compose exec mysql_db bash
 		b) docker-compose exec python_app bash
